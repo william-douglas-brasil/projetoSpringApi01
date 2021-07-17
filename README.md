@@ -61,7 +61,8 @@ java -jar target/projetoSpringApi01-0.0.1-SNAPSHOT.jar
 
 William Douglas da Silva dos Santos
 
-https://www.linkedin.com/in/william-douglas-587abb123/
+[![LinkedIn Badge](https://img.shields.io/badge/-William%20Douglas-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/william-douglas-587abb123/)](https://www.linkedin.com/in/william-douglas-587abb123/)
+
 
 # 📄 Licença
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/william-douglas-brasil/projetoSpringApi01/blob/main/LICENSE)
